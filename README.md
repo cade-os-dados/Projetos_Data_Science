@@ -5,8 +5,7 @@ Meu portfólio de projetos de Data Science
   <img src="banner2.jpg" >
 </p>
 
-# Rafael Silva
-<sub> Matemático </sub>
+# Rafael Silva (Matemático)
 
 Me apaixonei por Estatística e Programação durante minha graduação em Matemática e logo que me formei (ago/2022) parti para uma formação em Data Science na Sigmoidal. Minha missão é transformar uma montanha de dados em informações valiosas que auxiliem à tomada de decisão e criar modelos de aprendizagem de máquina que as tornem melhores tomadoras de decisões do que humanos. 
 
