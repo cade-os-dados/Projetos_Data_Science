@@ -1,14 +1,14 @@
 # Projetos_Data_Science
 Meu portfólio de projetos de Data Science
 
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/rafael-silva-a76945249/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/rafael-silva-a76945249/) [![](https://img.shields.io/badge/python-3.9+-blue.svg)] [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
   <img src="banner2.jpg" >
 </p>
 
 # Rafael Silva
-<sub>*Matemático*</sub>
+<sub> Matemático </sub>
 
 Me apaixonei por Estatística e Programação durante minha graduação em Matemática e logo que me formei (ago/2022) parti para uma formação em Data Science na Sigmoidal. Minha missão é transformar uma montanha de dados em informações valiosas que auxiliem à tomada de decisão e criar modelos de aprendizagem de máquina que as tornem melhores tomadoras de decisões do que humanos. 
 
