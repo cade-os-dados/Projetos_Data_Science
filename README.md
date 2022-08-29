@@ -21,12 +21,6 @@ Minha graduação é em Matemática na Universidade do Estado de Santa Catarina,
 ## Projetos:
 Veja os projetos em que apliquei meus conhecimentos de Data Science a seguir:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Análise dos Dados do Airbnb - Singapura:** https://bit.ly/3CFeT4F
 
 ---
