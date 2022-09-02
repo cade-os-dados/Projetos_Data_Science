@@ -21,6 +21,6 @@ Minha graduação é em Matemática na Universidade do Estado de Santa Catarina,
 ## Projetos:
 Veja os projetos em que apliquei meus conhecimentos de Data Science a seguir:
 
-* **Análise dos Dados do Airbnb - Singapura:** https://bit.ly/3CFeT4F
+* **Análise dos Dados do Airbnb - Singapura:** https://bit.ly/3CWjtfj
 
 ---
