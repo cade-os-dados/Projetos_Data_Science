@@ -5,7 +5,7 @@ A ideia deste projeto foi de aplicar meus conhecimentos de SQL e Power BI. Para 
 O tema escolhido para o projeto foi de vendas, após escolher o tema separei as informações úteis, modelei os dados no formato SnowFlake Schema e produzi o painél que pode ser visualizado a seguir.
 
 <p align="center">
-  <img src="sales_final.png" >
+  <img src="sales_final.pdf" >
 </p>
 
 Para ter acesso diretamente ao Dashboard produzido, basta ter o Power BI instalado em sua máquina e abrir o arquivo 'sales_final.pbix'. Além disso, o arquivo 'ETL_final.sql' mostra os comandos SQL que utilizei para extrair os dados, que foram zipados no arquivo 'sales_csv_v3.rar' e também estão separados por sheets (planilhas) no arquivo 'fVendas_final.xlsx'. 
