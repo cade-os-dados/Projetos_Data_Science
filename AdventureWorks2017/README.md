@@ -4,10 +4,10 @@ Para ter acesso diretamente ao Dashboard produzido, basta ter o Power BI instala
 
 Caso não seja possível, é possível visualizar (sem interagir) a versão final do Dashboard através do arquivo de imagem 'sales_final.png'.
 
-Att <br/>
+Att, <br/>
 Rafael.
 
+---
 <p align="center">
   <img src="banner2.jpg" >
 </p>
----
